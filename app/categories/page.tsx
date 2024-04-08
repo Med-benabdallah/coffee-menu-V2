@@ -6,7 +6,7 @@ import logo from '@/public/blacktag-logo.jpg'
 
 const Categories = () => {
   return (
-   <div className='h-screen flex flex-col justify-center  items-center bg-black'>
+   <div className='h-screen flex flex-col justify-center  items-center bg-black text-white'>
     <Image src={logo} alt="Blacktag" height={100} width={100}/>
    <div className='flex justify-center items-center bg-black'>
       
